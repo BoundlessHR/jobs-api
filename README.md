@@ -4,7 +4,9 @@ Your task is to implement a simple Job Board backend API. Detailed specification
 
 ## Project Delivery
 
-- Create a private repository on Gitlab or Bitbucket and invite `devteam@boundlessdrop.com`
+- source code delivery options:
+  - Create a Fork of this repository on Bitbucket and then create a pull request back to it
+  - Create a private repository on bitbucket and invite devteam@boundlessdrop.com
 - Deploy your app on Heroku and send the link to it
 
 ## Project Description
