@@ -2,13 +2,6 @@
 
 Your task is to implement a simple Job Board backend API. Detailed specifications for the test project are provided below. We estimate that you will not need more than a single weekend at relaxed coding speed to implement it.
 
-## Project Delivery
-
-- source code delivery options:
-    * Create a Fork of this repository on Bitbucket and then create a pull request back to it
-    * Create a private repository on bitbucket and invite devteam@boundlessdrop.com
-- Deploy your app on Heroku and send the link to it
-
 ## Project Description
 
 The Job Board API will be used by your Users (Job Seekers) to perform the following tasks:
@@ -67,7 +60,7 @@ The following technical requirements are placed on your implementation:
 
 - You should implement the following functionality:
   - Job seekers apply to any job by creating a Job Application that will have a status of (Not Seen) by default
-  - When an Admin Users views a Job Application this will change their status to (Seen)
+  - When an Admin User views a Job Application this will change their status to (Seen)
 
 
 ### Bonus task (NOT mandatory)
@@ -77,6 +70,7 @@ The following technical requirements are placed on your implementation:
 - Implement search for Jobs by title or creation date
 - Add Expiry date to the job post so it won't apper to the job seeker after a specific date
 - Use ElasticSearch to search for keywords in the Job Description
+- Implement a simple client using a frontend framework of your choice that consumes your API
 
 ## Review process
 
@@ -94,7 +88,7 @@ How do you store your customers' passwords? What about security of your customer
 
 ### 🔥 Testability
 
-Is your code tested? How do you write tests? Do you even write them? (Tests are optional)
+Is your code tested? How do you approach testing? Do you use TDD or are tests an afterthought for you.
 
 ### API structure and usability
 
@@ -111,11 +105,18 @@ How hard is it to run your project locally? And how hard is it to deploy it?
 
 ### Documentation
 
-Is your API documented? Is the documentation sufficient for at least basic needs in multi-platform development team?
+Is your API documented? Is your documentation auto generated from the code base? Does it cover all you endpoints?
 
 ### Version Control
 
 Please commit often and tell a story of your process with your commit history.
+
+## Project Delivery
+
+- source code delivery options:
+    * Create a Fork of this repository on Bitbucket and then create a pull request back to it
+    * Create a private repository on bitbucket and invite devteam@boundlessdrop.com
+- Deploy your app on Heroku and send the link to it
 
 > That's it. Good luck and we look forward to seeing your submission!
 
