@@ -71,6 +71,7 @@ The following technical requirements are placed on your implementation:
 - Add Expiry date to the job post so it won't apper to the job seeker after a specific date
 - Use ElasticSearch to search for keywords in the Job Description
 - Implement a simple client using a frontend framework of your choice that consumes your API
+- Implement CI using Travis and use Coverall for code coverage and insert their badges into your readme file
 
 ## Review process
 
