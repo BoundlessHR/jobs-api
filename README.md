@@ -82,6 +82,7 @@ The following should help you determine where to put your focus, since these are
 ### 🔥 Code quality
 
 Is your code well-structured? Do you keep your coding style consistent across your codebase?
+You can check our style guide https://github.com/BoundlessDrop/style-guide
 
 ### 🔥 Security
 
